@@ -43,7 +43,7 @@ extensions = [
     'sphinx.ext.doctest',
     'nbsphinx',
     'sphinx.ext.mathjax',
-    'sphinxcontrib.napoleon',
+    'sphinx.ext.napoleoneon',
 ]
 
 nbsphinx_execute = 'never'
