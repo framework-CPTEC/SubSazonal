@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'SubSazonal'
+project = 'Sazonal'
 copyright = '2024, FrameWork CPTEC'
 author = 'FrameWork CPTEC'
 
