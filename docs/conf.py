@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'cptec-model'
+project = 'cptec-subsaz'
 copyright = '2023, Framework CPTEC'
 author = 'Framework CPTEC'
 
@@ -147,7 +147,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'cptecmodel', 'cptecmodel Documentation',
+    (master_doc, 'cptecsubsaz', 'cptecsubsaz Documentation',
      [author], 1)
 ]
 
