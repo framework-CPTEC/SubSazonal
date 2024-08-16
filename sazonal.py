@@ -1,6 +1,6 @@
 
 """
-Sazonal - Biblioteca Python para a distibuição de Dados dos Modelos Numéricos.
+SubSazonal - Biblioteca Python para a distibuição de Dados dos Modelos Numéricos.
 """
 
 __version__ = "0.1.0"
