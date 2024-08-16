@@ -61,6 +61,3 @@ python:
     install:
         - requirements: docs/requirements.txt
 
-
-conda:
-    file: environment.yml
