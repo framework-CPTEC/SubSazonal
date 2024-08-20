@@ -7,6 +7,8 @@
 
 support Python >= 3.10.
 
+[Readthedocs](https://cptec-model.readthedocs.io/en/latest/index.html)
+
 ## Instalação 
 
 - Criar ambiente conda
@@ -88,9 +90,3 @@ conda install -c anaconda ipykernel
 pip install jupyter
 
 jupyter notebook
-
->Example_lib.ipynb
->
->Example_lib_Widgets.ipynb
->
->Example_lib_regrid.ipynb
