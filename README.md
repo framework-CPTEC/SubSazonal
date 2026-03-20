@@ -9,4 +9,6 @@ Esses arquivos estão disponíveis como anomalias computadas referentes à clima
 
 support Python >= 3.10.
 
-[Readthedocs](https://subsazonal.readthedocs.io/en/latest/index.html)
+### Instalação e Como utilizar o Pacote
+
+[Documentação](https://subsazonal.readthedocs.io/en/latest/index.html)
